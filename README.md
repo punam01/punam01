@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on [NITK Health Care Center](https://github.com/SrijitaSarkar99/HCC-NITK)
+- 🔭 I’m currently working on [NITK Health Care Center Web App Project](https://github.com/SrijitaSarkar99/HCC-NITK)
 
 - 👨‍💻 All of my projects are available at [https://github.com/punam01](https://github.com/punam01)
 
