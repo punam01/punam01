@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/punam01](https://github.com/punam01)
 
-- 📝 I regularly write articles on [https://medium.com/@punamkumavat01](https://medium.com)
+- 📝 I regularly write articles on [https://medium.com/@punamkumavat01](https://medium.com/@punamkumavat01)
 
 - 📫 How to reach me **punamkumavat01@gmail.com**
 
