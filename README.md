@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punam Nirvesh Kumavat</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-
-- 🔭 I’m currently working on [NITK Health Care Center Web App Project](https://github.com/SrijitaSarkar99/HCC-NITK)
-
-- 👨‍💻 All of my projects are available at [https://github.com/punam01](https://github.com/punam01)
-
-- 📝 I regularly write articles on [https://medium.com/@punamkumavat01](https://medium.com/@punamkumavat01)
+<h3 align="center">I'm a passionate full stack developer from India, skilled in learning and implementing new technologies. I thrive on tackling challenges and continuously improving my skills to deliver effective solutions.</h3>
 
 - 📫 How to reach me **punamkumavat01@gmail.com**
 
